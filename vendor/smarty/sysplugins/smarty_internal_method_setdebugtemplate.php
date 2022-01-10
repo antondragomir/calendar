@@ -1,0 +1,6 @@
+9-Nov-2019 18:31:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in D:\OSPanel\domains\doc.loc\erp\pages\tasks.php on line 89
+[29-Nov-2019 18:31:15 Europe/Moscow] PHP Warning:  Illegal string offset 'priority' in D:\OSPanel\domains\doc.loc\erp\templates_c\8e3baf190fdff3b9a3dca3ba020551413005c5cf_0.file.tasks_table.tpl.cache.php on line 53
+[29-Nov-2019 18:31:15 Europe/Moscow] PHP Warning:  Illegal string offset 'id' in D:\OSPanel\domains\doc.loc\erp\templates_c\8e3baf190fdff3b9a3dca3ba020551413005c5cf_0.file.tasks_table.tpl.cache.php on line 57
+[29-Nov-2019 18:31:15 Europe/Moscow] PHP Warning:  Illegal string offset 'id' in D:\OSPanel\domains\doc.loc\erp\templates_c\8e3baf190fdff3b9a3dca3ba020551413005c5cf_0.file.tasks_table.tpl.cache.php on line 60
+[29-Nov-2019 18:31:15 Europe/Moscow] PHP Warning:  Illegal string offset 'name' in D:\OSPanel\domains\doc.loc\erp\templates_c\8e3baf190fdff3b9a3dca3ba020551413005c5cf_0.file.tasks_table.tpl.cache.php on line 62
+[29-Nov-2019 18:31:15 Euro
